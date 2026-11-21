@@ -19,8 +19,8 @@ list (`tech`, `cinema`, `games`) in the client. Older clients ignore unknown
 fields, so this is a minor, backwards-compatible addition.
 
 `pendingRepos` lists the central repos that do not exist on GitHub yet
-(blocked 2026-11-21 by GitHub's "created too many repositories, too
-quickly" rate limit). The 16+16 shard lists are the addressing scheme —
+(empty since 2026-11-21 12:15 PST, when the last three were created and
+all 43 existed). The 16+16 shard lists are the addressing scheme —
 a domain hashes to its shard whether or not that repo exists yet — while
 `pendingRepos` is the honest existence record. Clients treat a missing
 shard repo as empty.
