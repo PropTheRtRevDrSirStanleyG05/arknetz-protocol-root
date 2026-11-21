@@ -1,0 +1,58 @@
+{
+  "protocolVersion": "0.1.0",
+  "defaultRootRepo": "PropTheRtRevDrSirStanleyG05/arknetz-protocol-root",
+  "masterGithubUser": "PropTheRtRevDrSirStanleyG05",
+  "registryShards": [
+    "arknetz-registry-00",
+    "arknetz-registry-01",
+    "arknetz-registry-02",
+    "arknetz-registry-03",
+    "arknetz-registry-04",
+    "arknetz-registry-05",
+    "arknetz-registry-06",
+    "arknetz-registry-07",
+    "arknetz-registry-08",
+    "arknetz-registry-09",
+    "arknetz-registry-0a",
+    "arknetz-registry-0b",
+    "arknetz-registry-0c",
+    "arknetz-registry-0d",
+    "arknetz-registry-0e",
+    "arknetz-registry-0f"
+  ],
+  "contactsShards": [
+    "arknetz-contacts-00",
+    "arknetz-contacts-01",
+    "arknetz-contacts-02",
+    "arknetz-contacts-03",
+    "arknetz-contacts-04",
+    "arknetz-contacts-05",
+    "arknetz-contacts-06",
+    "arknetz-contacts-07",
+    "arknetz-contacts-08",
+    "arknetz-contacts-09",
+    "arknetz-contacts-0a",
+    "arknetz-contacts-0b",
+    "arknetz-contacts-0c",
+    "arknetz-contacts-0d",
+    "arknetz-contacts-0e",
+    "arknetz-contacts-0f"
+  ],
+  "directoryCategories": [
+    "tech",
+    "cinema",
+    "games"
+  ],
+  "feedShards": [
+    "arknetz-feed-2026-11"
+  ],
+  "mirrors": [
+    "gl:PropTheRtRevDrSirStanleyG05/protocol-root",
+    "cb:PropTheRtRevDrSirStanleyG05/protocol-root"
+  ],
+  "zstdDictionary": {
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/PropTheRtRevDrSirStanleyG05/arknetz-protocol/main/zstd-dictionary-v2.bin",
+    "sha256": "a1786956c8f9b919c393ba27347213c8db48a283615b23bfe03582f92544c96d"
+  }
+}
